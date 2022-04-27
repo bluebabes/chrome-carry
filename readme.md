@@ -2,6 +2,8 @@
 
 因 chrome 政策影响， chrome 很多经典插件被下架，这里做一个备份
 
+[如何安装？](https://github.com/bluebabes/chrome-carry/wiki/%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85chrome%E6%8F%92%E4%BB%B6)
+
 
 ### list
 
