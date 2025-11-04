@@ -10,3 +10,4 @@
 1. [右键搜](https://github.com/bluebabes/chrome-carry/raw/main/zip/chrome-right-search-master.zip)
 2. [万能复制：解除鼠标右键，复制等限制](https://github.com/bluebabes/chrome-carry/raw/main/zip/bestcopy.zip)
 3. [简洁标签页](https://github.com/bluebabes/chrome-carry/raw/main/zip/chrome-ataraxia.zip)
+4. [右键直接下载图片 like safari](https://github.com/bluebabes/chrome-carry/raw/main/zip/save-image-to-downloads.zip)
